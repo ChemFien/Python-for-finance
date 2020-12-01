@@ -16,4 +16,4 @@ The following websites, APIs or FTP were used in these projects:
 3. Morningstar
 4. Wikipedia
 
-
+The following 
